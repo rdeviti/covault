@@ -1,0 +1,12 @@
+{
+    "description": "Ingress test",
+    "options": { 
+				"party": 1,
+				"port": 50000,
+				"peer_ip": "127.0.0.1",
+				"outfile": "./ingress_a.out",
+				"n_reps": 1,
+				"redis_ip": "127.0.0.1",
+				"redis_port": 6379
+		}
+}

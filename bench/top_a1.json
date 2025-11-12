@@ -1,0 +1,10 @@
+{
+    "description": "Arboretum Top test (generator)",
+    "options": { 
+				"party": 1,
+				"port": 50000,
+				"peer_ip": "10.3.32.4",
+				"outfile": "./atop_a1.out",
+				"n_reps": 5
+		}
+}

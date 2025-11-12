@@ -1,0 +1,10 @@
+{
+    "description": "Primitives benchfile",
+    "options": {
+        "party": 1,
+        "port": 55000,
+        "peer_ip": "127.0.0.1",
+        "outfile": "primitives_a2.csv",
+        "n_reps": 1
+    }
+}

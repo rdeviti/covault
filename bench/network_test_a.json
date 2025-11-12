@@ -1,0 +1,9 @@
+{
+    "description": "Network test",
+    "options": { 
+				"party": 1,
+				"peer_ip": "127.0.0.1",
+			 	"port": 12345,
+				"outfile": "./network_test_a.out"
+		}
+}

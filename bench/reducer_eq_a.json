@@ -1,0 +1,15 @@
+{
+    "description": "Sample test file for a reducer (generator)",
+    "options": { 
+				"party": 1,
+				"peer_ip": "10.3.32.4",
+			 	"port": 50002,
+				"mapper_ip": "127.0.0.1", 
+			 	"reducer_port": 50050,
+				"tile_start": 0,
+				"tile_end": 1,
+				"tile_size": 10000,
+				"n_reps": 1,
+				"outfile": "./reducer_a.out"
+			}
+}

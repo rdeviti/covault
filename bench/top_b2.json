@@ -1,0 +1,10 @@
+{
+    "description": "Arboretum Top test (evaluator)",
+    "options": { 
+				"party": 2,
+				"port": 50100,
+				"peer_ip": "10.3.33.4",
+				"outfile": "./atop_b2.out",
+				"n_reps": 5
+		}
+}

@@ -1,0 +1,12 @@
+{
+    "description": "Ingress test",
+    "options": { 
+				"party": 2,
+				"port": 50100,
+				"peer_ip": "10.3.33.4",
+				"outfile": "./ingress_b_dualex.out",
+				"n_reps": 1,
+				"redis_ip": "127.0.0.1",
+				"redis_port": 6380
+		}
+}
