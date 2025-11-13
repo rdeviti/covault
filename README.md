@@ -14,11 +14,11 @@ The artifact in this repository accompanies our USENIX Security 2025 paper:
 
 This artifact includes the code to reproduce the results in the paper. This artifact passed availability, functionality, and reproducibility evaluation at USENIX Security 2025. (See the USENIX Security 2025 [artifact page](https://secartifacts.github.io/usenixsec2025/badges).)
 
-<center>
-<img src="docs/usenixbadges-available.png" width="50" height="50">&emsp;
-<img src="docs/usenixbadges-functional.png" width="50" height="50">&emsp;
-<img src="docs/usenixbadges-reproduced.png" width="50" height="50">
-</center>
+<p align="center">
+  <img src="docs/usenixbadges-available.png" width="80" height="80" style="margin-right: 20px;">
+  <img src="docs/usenixbadges-functional.png" width="80" height="80" style="margin-right: 20px;">
+  <img src="docs/usenixbadges-reproduced.png" width="80" height="80">
+</p>
 
 ## Setup
 
