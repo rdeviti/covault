@@ -12,13 +12,13 @@ The artifact in this repository accompanies our USENIX Security 2025 paper:
 
 [CoVault: Secure, Scalable Analytics of Personal Data](https://www.usenix.org/conference/usenixsecurity25/presentation/de-viti). *Roberta De Viti, Isaac Sheff, Noemi Glaeser, Baltasar Dinis, Rodrigo Rodrigues, Bobby Bhattacharjee, Anwar Hithnawi, Deepak Garg, and Peter Druschel.* USENIX Security 2025.
 
-This artifact includes the code to reproduce the results in the paper. This artifact passed availability, functionality, and reproducibility evaluation at USENIX Security 2025. (See the USENIX Security 2025 [artifact page](https://secartifacts.github.io/usenixsec2025/badges).)
-
 <p align="center">
   <img src="docs/usenixbadges-available.png" width="80" height="80" style="margin-right: 20px;">
   <img src="docs/usenixbadges-functional.png" width="80" height="80" style="margin-right: 20px;">
   <img src="docs/usenixbadges-reproduced.png" width="80" height="80">
 </p>
+
+This artifact includes the code to reproduce the results in the paper. This artifact passed availability, functionality, and reproducibility evaluation at USENIX Security 2025. (See the USENIX Security 2025 [artifact page](https://secartifacts.github.io/usenixsec2025/badges).)
 
 ## Setup
 
