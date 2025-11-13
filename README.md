@@ -1,4 +1,26 @@
-# CoVault prototype
+# CoVault
+
+![Logo](docs/covault-logo.png)
+
+**Note**: CoVault is not actively maintained. This is an academic prototype and it is not ready for production use.
+
+---
+
+CoVault is an analytics platform for secure computation that enables the analysis of personal data, such as individuals' mobility, financial, and health data, while maintaining strong security guarantees. CoVault leverages server-aided multi-party computation (MPC) and trusted execution environments (TEEs) to colocate MPC parties in a single datacenter without reducing security, and scales MPC horizontally to the datacenter's available resources.
+
+The artifact in this repository accompanies our USENIX Security 2025 paper:
+
+[CoVault: Secure, Scalable Analytics of Personal Data](https://www.usenix.org/conference/usenixsecurity25/presentation/de-viti). *Roberta De Viti, Isaac Sheff, Noemi Glaeser, Baltasar Dinis, Rodrigo Rodrigues, Bobby Bhattacharjee, Anwar Hithnawi, Deepak Garg, and Peter Druschel.* USENIX Security 2025.
+
+This artifact includes the code to reproduce the results in the paper. This artifact passed availability, functionality, and reproducibility evaluation at USENIX Security 2025. (See the USENIX Security 2025 [artifact page](https://secartifacts.github.io/usenixsec2025/badges).)
+
+<center>
+<img src="docs/usenixbadges-available.png" width="50" height="50">&emsp;
+<img src="docs/usenixbadges-functional.png" width="50" height="50">&emsp;
+<img src="docs/usenixbadges-reproduced.png" width="50" height="50">
+</center>
+
+## Setup
 
 To facilitate artifact evaluation, we provide USENIX Security evaluators with SSH access to pre-configured virtual machines (VMs) on Google Cloud Compute Engine (GCE). These VMs include all necessary hardware and software dependencies and are set up for intercommunication and mutual authentication. We refer to this as the “GCE setup,” intended for USENIX Security evaluators.
 
